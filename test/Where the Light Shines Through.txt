@@ -1,0 +1,124 @@
+title:Where the Light Shines Through
+artist:Switchfoot
+key:A
+
+scan:Intro, V1, PC1, C, V2, PC2, C2, B, Outro
+
+part:[Intro]
+chord:A  D  A  G D
+lyric: 
+
+part:[V1]
+chord:A
+lyric:When you're feeling like an astronaut
+chord:D
+lyric:Stuck on a planet even time forgot, and
+chord:A                                                   G   D
+lyric:You're a version of yourself, but you're not the same
+chord:A
+lyric:You try to keep the wound camouflaged, and
+chord:D
+lyric:The stitches heal, but the years are lost, and
+chord:A                                            G   D
+lyric:Another bottle on the shelf can't numb the pain
+ 
+part:[PC1]
+chord:Bm
+lyric:Why you running from yourself now?
+chord:E
+lyric:You can't run away
+ 
+part:[C]
+chord:       A                     D
+lyric:'cause your scars shine like dark stars
+chord:           A                              G          D
+lyric:Yeah, your wounds are where the light shines through
+chord:         A                 D
+lyric:So let's go there, to that place where
+chord:              Em                                D
+lyric:We sing these broken prayers where the light shines through
+chord:                                  A          G
+lyric:The wound is where the light shines through
+chord:           D                            A          G   D
+lyric:Yeah, the wound is where the light shines through
+ 
+part:[V2]
+chord:A
+lyric:Ain't we all just Abraham's son?
+chord:D
+lyric:Saint and sinner with the song and drum, and
+chord:A                                               G   D
+lyric:We're falling on our knees, we all bleed the same
+chord:        A
+lyric:And the only tattoos that I have are scars
+chord:D
+lyric:I got your name written on my heart
+chord:        A                                                   G   D
+lyric:And the story that brought us here ain't the thing that changed, no
+ 
+part:[PC2]
+chord:Bm
+lyric:I wanna see that light shining
+chord:E
+lyric:Brighter than the pain
+ 
+part:[C2]
+chord:       A                       D
+lyric:'cause your scars shine like a dark star
+chord:           A                              G          D
+lyric:Yeah, your wounds are where the light shines through
+chord:         A                 D
+lyric:So let's go there, to that place where
+chord:              Em                                 D
+lyric:We sing these broken prayers where the light shines through
+chord:                                  A
+lyric:The wound is where the light shines through
+chord:A A# B
+lyric: 
+
+part:[B]
+chord:C                                     G
+lyric:Mama, ain't the blood just proof I'm human?
+chord:A#                               F            A A# B
+lyric:Mama, ain't the wound just retribution?
+chord:C                                           E   D
+lyric:Well Mama, ain't the scar like a vision of grace?
+ 
+chord:A         G          D      A
+lyric:(It's the scars that make a man
+chord:                   G          D          A
+lyric:So maybe all these scars are [friends?])
+ 
+part:[Outro]
+chord:                                    D
+lyric:The wound is where the light shines through
+chord:                                   A
+lyric:The wound is where the light finds you
+chord:                                    D
+lyric:The wound is where the light shines through (Yeah)
+chord: 
+lyric:The wound is where the light (finds you)
+ 
+chord:      F#m
+lyric:Yeah, your scars (The wound is where the light shines through)
+chord:           D
+lyric:shine like dark stars (The wound is where the light finds you)
+chord:          Em
+lyric:Yeah, the wound is where the (The wound is where the shines through)
+chord:G             D
+lyric:light shines through 
+ 
+chord:                        A
+lyric:It's where the light shines through
+chord:G          D                         A
+lyric:Yeah, yeah, it's where the light shines through
+chord:G    D                  A
+lyric:Yeah, the only tattoo I have 
+chord:  G          D                           A
+lyric:Oh, oh, oh, oh, it's where the light shines through
+chord:G                       D                       A          G   D
+lyric:Where the light shines, where the the light shines through
+chord:                     A         G   D
+lyric:Where the light shines through
+chord:                            A
+lyric:It's where the light shines through

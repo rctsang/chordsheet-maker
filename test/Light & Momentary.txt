@@ -1,0 +1,122 @@
+title: Light & Momentary
+artist: For All Seasons
+album: & Side A [2019]
+ 
+key: G
+
+scan:Intro,V1,C,I1,V2,C,I2,B,C2,C,Outro
+
+part:[Intro]
+ 
+chord:G
+lyric:
+chord:G   Csus2   Em7   Csus2
+lyric:
+
+
+part:[V1]
+ 
+chord:      G
+lyric:We remember
+chord:          Csus2
+lyric:When the miracles still won't come
+chord:           Em7
+lyric:You're the answer
+chord:       Csus2
+lyric:Your cross is still enough
+chord:      G
+lyric:We remember
+chord:         Csus2
+lyric:When we lose our sight from the tears we cry
+chord:           Em7
+lyric:You're the answer
+chord:       Csus2
+lyric:Your cross is still enough
+ 
+ 
+part:[C]
+ 
+chord:        G                         Csus2
+lyric:We hold tight to the promise of new life
+chord:            Dsus   Em7
+lyric:Our hope in Jesus Christ
+chord:           Dsus    Csus2
+lyric:Will never fail or fall
+chord:      G                 Csus2
+lyric:These light and momentary trials
+chord:            Dsus  Em7
+lyric:Are gaining us a prize
+chord:            Dsus        Csus2
+lyric:That far outweighs them all
+
+
+part:[I1]
+
+chord:G   Csus2
+lyric: 
+
+
+part:[V2]
+ 
+chord:      G
+lyric:We remember
+chord:         Csus2
+lyric:When the calm won't come, when we feel unloved
+chord:           Em7
+lyric:You're the answer
+chord:       Csus2
+lyric:Your cross is still enough
+chord:      G
+lyric:We remember
+chord:         Csus2
+lyric:When the lies take hold, and the doubts won't go
+chord:           Em7
+lyric:You're the answer
+chord:       Csus2
+lyric:Your cross is still enough
+
+
+part:[I2]
+
+chord:Am   Em7   Csus2
+lyric:
+chord:Am   Em7   Csus2
+lyric: 
+
+
+part:[B]
+
+chord:        Am             Em7              Csus2
+lyric:There's nothing in this life that I could lose
+chord:     Am           Em7           Csus2
+lyric:That ever could compare to having You
+chord:             G               Dsus              Csus2
+lyric:God, there's nothing in this life that I could lose
+chord:     G/B          Dsus       Csus2
+lyric:That ever could compare to ha - ving You
+ 
+ 
+part:[C2]
+ 
+chord:        G                         Csus2
+lyric:We hold tight to the promise of new life
+chord:                  Em7
+lyric:Our hope in Jesus Christ
+chord:                   Csus2
+lyric:Will never fail or fall
+chord:      G                 Csus2
+lyric:These light and momentary trials
+chord:                 Em7
+lyric:Are gaining us a prize
+chord:                        Csus2
+lyric:That far outweighs them all
+ 
+part:[Outro]
+chord: 
+lyric:It far outweighs
+chord:     G  Csus2  Dsus  Em7  Dsus  Csus2
+lyric:Them all
+chord: 
+lyric:Oh, You far outweigh
+chord:     G  Csus2  Dsus  Em7  Dsus  Csus2
+lyric:Them all

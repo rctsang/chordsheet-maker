@@ -1,0 +1,168 @@
+title: Where I Belong
+artist: Switchfoot
+album: Vice Verses
+
+scan:Intro,Verse 1,Verse 2,Chorus 1,Instrumental,Verse 3,Chorus 1,Tag,Bridge,Chorus 2,Outro
+
+part:[Intro]
+chord:Dsus2 F#m (x4)
+lyric:
+chord:A A  Dsus2 Dsus2 (x2)
+lyric: 
+part:[Verse 1]
+chord:A
+lyric:Feeling like a refugee
+chord:A
+lyric:Like it don't belong to me
+chord:Dsus2
+lyric:The colors flash across the sky
+chord:A
+lyric:This air feels strange to me
+chord:A
+lyric:Feeling like a tragedy
+chord:Dsus2
+lyric:Take a deep breath and close my eyes
+chord:(Dsus2)     A
+lyric:One last time
+chord:            Dsus2
+lyric:One last time
+ 
+part:[Verse 2]
+chord:A
+lyric:Storms on the wasteland
+chord:A
+lyric:Dark clouds on the plains again
+chord:Dsus2
+lyric:We were born into this fight
+chord:A
+lyric:But I'm not sentimental
+chord:A
+lyric:This skin and bones is a rental
+chord:Dsus2
+lyric:And no one makes it out alive
+ 
+part:[Chorus 1]
+chord:A
+lyric:Until I die I'll sing these songs
+chord:A                       Dsus2
+lyric:On the shores of Babylon
+chord:(Dsus2)
+lyric:Still looking for a home
+chord:Dsus2
+lyric:In a world where I belong
+chord:A
+lyric:Where the weak are finally strong
+chord:A                                   Dsus2
+lyric:Where the righteous right the wrongs
+chord:(Dsus2)
+lyric:Still looking for a home
+chord:Dsus2
+lyric:In a world where I belong
+ 
+part:[Instrumental]
+chord:A A Dsus2 Dsus2
+lyric:
+ 
+part:[Verse 3]
+chord:A
+lyric:Feels like we're just waiting, waiting
+chord:A
+lyric:While are hearts are just breaking, breaking
+chord:Dsus2
+lyric:Feels like we've been fighting against the tide
+chord:A
+lyric:I wanna see the earth start shaking
+chord:A
+lyric:I wanna see a generation
+chord:Dsus2
+lyric:Finally waking up inside
+ 
+part:[Chorus 1]
+chord:A
+lyric:Until I die I'll sing these songs
+chord:A                       Dsus2
+lyric:On the shores of Babylon
+chord:(Dsus2)
+lyric:Still looking for a home
+chord:Dsus2
+lyric:In a world where I belong
+ 
+chord:A
+lyric:Where the weak are finally strong
+chord:A                                   Dsus2
+lyric:Where the righteous right the wrongs
+chord:(Dsus2)
+lyric:Still looking for a home
+chord:Dsus2
+lyric:In a world where I belong
+
+part:[Tag]
+chord:F#m  E                   Dsus2
+lyric:      A world where I belong
+ 
+part:[Bridge]
+chord:                   F#m
+lyric:This body's not my home
+chord:                     E
+lyric:This world is not my own
+chord:                         Dsus2
+lyric:But I still can hear the sound
+chord:                    Dsus2
+lyric:Of my heart beating out
+chord:(Dsus2)
+lyric:So let's go boys, play it loud
+chord:A A  Dsus2 Dsus2 (x2)
+lyric: 
+part:[Chorus 2]
+chord:A
+lyric:On the final day I die
+chord:A                         Dsus2
+lyric:I want to hold my head up high
+chord:(Dsus2)
+lyric:I want to tell You that I tried
+chord:Dsus2
+lyric:To live it like a song
+chord:A
+lyric:And when I reach the other side
+chord:A                         Dsus2
+lyric:I want to look You in the eye
+chord:(Dsus2)
+lyric:And know that I've arrived
+chord:Dsus2                F#m
+lyric:In a world where I belong
+chord:                     E
+lyric:In a world where I belong
+chord:                     Dsus2
+lyric:In a world where I belong
+chord:          Dsus2
+lyric:Where I belong
+chord:          A         A
+lyric:Where I belong
+chord:          Dsus2     Dsus2        A       A
+lyric:Where I belong              Yeah!
+chord:          Dsus2     Dsus2
+lyric:Where I belong
+chord:A
+lyric:I still believe we can live forever
+chord:A                          Dsus2
+lyric:You and I we begin forever now
+chord:        Dsus2
+lyric:Forever now   forever
+ 
+part:[Outro]
+chord:A
+lyric:I still believe in us together
+chord:A                             Dsus2
+lyric:You and I we're here together now
+chord:         Dsus2
+lyric:Together now
+chord:        A
+lyric:Forever now
+chord:        A
+lyric:Forever now
+chord:        Dsus2
+lyric:Forever now
+chord:        Dsus2
+lyric:Forever
+chord:       A <--end on A
+lyric:Forever
